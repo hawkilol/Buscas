@@ -1,1 +1,1 @@
-# Buscas
+# Search algos
